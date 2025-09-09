@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01.01", "Lab01.01\Lab01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01.02", "Lab01.02\Lab01.02.csproj", "{AE93163F-DD85-4598-A419-A2CAB68D11F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleTestsForLab0102", "RectangleTestsForLab0102\RectangleTestsForLab0102.csproj", "{D090AA8E-59D1-4F18-B951-60F458FAC0B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AE93163F-DD85-4598-A419-A2CAB68D11F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE93163F-DD85-4598-A419-A2CAB68D11F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE93163F-DD85-4598-A419-A2CAB68D11F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D090AA8E-59D1-4F18-B951-60F458FAC0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D090AA8E-59D1-4F18-B951-60F458FAC0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D090AA8E-59D1-4F18-B951-60F458FAC0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D090AA8E-59D1-4F18-B951-60F458FAC0B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

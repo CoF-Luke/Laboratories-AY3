@@ -17,7 +17,7 @@
     }
 }
 
-class Rectangle
+public class Rectangle
 {
     double sideA, sideB;
 
