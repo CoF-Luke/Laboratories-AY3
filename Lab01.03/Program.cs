@@ -44,6 +44,10 @@ class Program
         Console.WriteLine($"Name of generated figure is {name_of_figure}.");
         Console.WriteLine($"Perimeter of this figure is {perimeter}.");
         Console.WriteLine("Thank you for your attention :)");
+
+        var f = new Figure(new Point(0, 0), new Point(4, 3), new Point(15, 8));
+        double r = f.PerimeterCalculator();
+        Console.WriteLine(r);
     }
 }
 
